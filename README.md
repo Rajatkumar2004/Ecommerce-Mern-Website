@@ -172,9 +172,11 @@ This will run both the frontend and backend concurrently.
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
+<img width="840" height="958" alt="screenshort" src="https://github.com/user-attachments/assets/4be7900c-ff10-4a4c-98dc-fc60a147eb25" />
+<img width="840" height="953" alt="Screenshot 2025-07-20 181457" src="https://github.com/user-attachments/assets/ad40e672-3386-4a6e-adbc-9f94ba2f2127" />
+<img width="840" height="950" alt="Screenshot 2025-07-20 181507" src="https://github.com/user-attachments/assets/85525b25-38f4-4bc2-8836-23f338510e58" />
 
-*Add screenshots here to show off the UI.*
 
 ---
 
